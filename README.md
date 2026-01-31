@@ -4,7 +4,7 @@ This extension provides enhanced syntax highlighting for TypeScript, TSX, and Ja
 
 ## Recommended Theme
 
-This extension was created specifically for this theme [Community Material Ocean Theme](https://github.com/deralaxo/community-material-ocean-theme-zed")
+This extension was created specifically for this theme [Community Material Ocean Theme](https://github.com/deralaxo/community-material-ocean-theme-zed)
 
 ## Features
 
