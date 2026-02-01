@@ -1,4 +1,4 @@
-name = "JavaScript Enhanced"
+name = "JavaScript"
 grammar = "tsx"
 path_suffixes = ["js", "jsx", "mjs", "cjs"]
 first_line_pattern = '^#!.*\b(?:[/ ]node|deno run.*--ext[= ]js)\b'
